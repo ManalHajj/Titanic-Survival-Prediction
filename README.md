@@ -118,11 +118,17 @@ Accuracy on Unseen Stratified Sample (100 rows): 84.81%
 ## Techniques Summary
 
 EDA :	Pandas, Matplotlib, Seaborn
+
 Preprocessing :	Pipelines, ColumnTransformer, Imputation, OneHotEncoding, Scaling
+
 Modeling :	Logistic Regression, Random Forest, SVC, XGBoost
+
 Evaluation :	Accuracy, F1-score, ROC AUC, PR AUC, Confusion Matrix
+
 Tuning :	GridSearchCV, StratifiedKFold
+
 Ensemble :	VotingClassifier (Soft Voting)
+
 Sampling :	StratifiedShuffleSplit 
 
 
